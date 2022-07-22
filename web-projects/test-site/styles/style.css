@@ -1,0 +1,33 @@
+html{
+    font-size: 10 px;
+    font-family:'Open Sans' sans-serif;
+    background-color:rgb(240, 244, 255);
+}
+h1{
+  font-size: 60px;
+  text-align: centre;
+}
+p,li
+{
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+  body{
+    width: 600px;
+    margin:0 auto;
+    background-color: rgb(255, 240, 244);
+    padding: 0 20px 20px 20px;
+    border: 6px solid black;
+  }
+  h1{
+    margin:0;
+    padding: 20px 0;
+    color: rgb(46, 0, 139);
+    border: 4px blue;
+  }
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+  
